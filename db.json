@@ -1,4 +1,4 @@
-"records": [
+{"records": [
     {
       "id": "1",
       "title": "Once Twice Melody",
@@ -81,3 +81,4 @@
       "next_concert": "June 2022, Amsterdam"
     }
 ]
+}
