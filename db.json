@@ -8,7 +8,7 @@
       "date_released": "November 2021" ,
       "description": "Eighth Studio Album from Beach House",
       "next_concert": "February 2022, Pittsburgh",
-      "video" : "https://www.youtube.com/watch?v=wTxO4G-X1a0"
+      "video" : "https://www.youtube.com/embed/wTxO4G-X1a0"
     },
     {
       "id": "2",
@@ -19,7 +19,7 @@
       "date_released": "August 2020",
       "description": "The NYC band’s first album in seven years is mellow and slight, rendering their signature sound as the perfect background music.",
       "next_concert": "April 2022, Mexico City",
-      "video" : "https://www.youtube.com/watch?v=ewOPQZZn4SY"
+      "video" : "https://www.youtube.com/embed/ewOPQZZn4SY"
       
     },
     {
@@ -31,7 +31,7 @@
       "date_released": "September 2021",
       "description": "WANDERKID is a standout jangle pop album of 2021, thematic in its tones and structures.",
       "next_concert": "March 2022, Austin",
-      "video" : "https://www.youtube.com/watch?v=8CAL8vXUCCs"
+      "video" : "https://www.youtube.com/embed/8CAL8vXUCCs"
     },
     {
       "id": "4",
@@ -42,7 +42,7 @@
       "date_released": "June 2021",
       "description": "Cinema is a gorgeous album that, as described by lead singer María Zardoya, offers listeners a break away from real life for a while to create some kind of dream world in their heads.",
       "next_concert": "February 2022, Austin",
-      "video" : "https://www.youtube.com/watch?v=cQZDH4NWmaU"
+      "video" : "https://www.youtube.com/embed/cQZDH4NWmaU"
     },
     {
       "id": "5",
@@ -53,7 +53,7 @@
       "date_released": "July 2021",
       "description": "Developed after being apart for much of the year, Durand Jones and the Indications' Private Space, the group's third album, is creatively explosive and delights in upending expectations",
       "next_concert": "February 2022, Ontario",
-      "video" : "https://www.youtube.com/watch?v=d7vTtnevlO4"
+      "video" : "https://www.youtube.com/embed/2AnXiScwWj4"
     },
     {
       "id": "6",
@@ -64,7 +64,7 @@
       "date_released": "November 2021",
       "description": "Lindsey Jordan’s exquisite second album documents love in all stages, but mostly in disrepair. She takes on a larger and poppier sound while keeping her songwriting dazzlingly sharp and passionate.",
       "next_concert": "March 2022, Oslo",
-      "video" : "https://www.youtube.com/watch?v=ZxarOZ0JBcc"
+      "video" : "https://www.youtube.com/embed/DUU9xxIb91g"
     },
     {
       "id": "7",
@@ -75,7 +75,7 @@
       "date_released": "August 2021",
       "description": "The Baltimore band’s spectacular fourth record is all groove, riffs, and passion. It is not a crossover hardcore album that looks to transcend the genre, but one that tries to elevate it to its highest visibility.",
       "next_concert": "February 2022, London",
-      "video" : "https://www.youtube.com/watch?v=WdJZlmhQXug"
+      "video" : "https://www.youtube.com/embed/YtGRLKVzzdg"
     },
     {
       "id": "8",
@@ -86,6 +86,6 @@
       "date_released": "June 2021",
       "description": "With DJ Drama in tow, Tyler thrives in the realm of the rap mixtape, which allows him great freedom to explore every facet of his talent as a producer, writer, and vocalist.",
       "next_concert": "June 2022, Amsterdam",
-      "video" : "https://www.youtube.com/watch?v=Lqvwm3zAILI"
+      "video" : "https://www.youtube.com/embed/Lqvwm3zAILI"
     }
   ]}
