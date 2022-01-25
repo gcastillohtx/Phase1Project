@@ -1,6 +1,6 @@
 //// get all images // fetch 
 getAllRecords()
-const recordCollection = document.querySelector("#ramen-menu")
+const recordCollection = document.querySelector("#recordList")
 
 function getAllRecords(){
     fetch("http://localhost:3000/records")
@@ -38,6 +38,5 @@ function createImageTags(recordObj){
     
   })
 
-  // append each img tag to the dom inside of ramen-menu
-  recordCollection.append(recordImg)
+  // append each img tag to the dom inside of records-list  recordCollection.append(recordImg)
 }
