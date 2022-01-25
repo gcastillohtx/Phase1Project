@@ -1,0 +1,83 @@
+"records": [
+    {
+      "id": "1",
+      "title": "Once Twice Melody",
+      "artist": "Beach House",
+      "artist_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYjAxZWUzMjItODI0MS00MjI4LTg3YmItM2RkYWNiZTE3M2JiXkEyXkFqcGdeQXVyNTI5NjIyMw%40%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm3777782%2F&tbnid=IlwKp88F4WwHkM&vet=12ahUKEwi86LGFvcv1AhUMC80KHcsDDh4QMygCegUIARC_AQ..i&docid=Rh-QMKJaZsUTsM&w=641&h=960&q=beach%20house%20band&ved=2ahUKEwi86LGFvcv1AhUMC80KHcsDDh4QMygCegUIARC_AQ",
+      "record_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FOnce_Twice_Melody&psig=AOvVaw1MjG0Lyean2wExeVgmY1ts&ust=1643151420238000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj_wJe-y_UCFQAAAAAdAAAAABAH",
+      "date_released": "November 2021" ,
+      "description": "Eighth Studio Album from Beach House",
+      "next_concert": "February 2022, Pittsburgh"
+    },
+    {
+        "id": "2",
+      "title": "Pink Dogs on The Green Grass",
+      "artist": "Paul Jacobs",
+      "artist_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ff4.bcbits.com%2Fimg%2F0023134117_23.jpg&imgrefurl=https%3A%2F%2Fpauljacobs.bandcamp.com%2Falbum%2Fpink-dogs-on-the-green-grass&tbnid=4QgUboq6awAV3M&vet=12ahUKEwj0h5Ccv8v1AhWOA80KHTsnAakQMygGegUIARCkAQ..i&docid=zRnC_yICb9ZDMM&w=240&h=300&q=paul%20jacobs%20pink%20dogs&ved=2ahUKEwj0h5Ccv8v1AhWOA80KHTsnAakQMygGegUIARCkAQ",
+      "record_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.pitchfork.com%2Fphotos%2F608c133d9398b00f10e86da4%2F1%3A1%2Fw_600%2FPaul%2520Jacobs%3A%2520Pink%2520Dogs%2520on%2520the%2520Green%2520Grass.jpeg&imgrefurl=https%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2Fpaul-jacobs-pink-dogs-on-the-green-grass%2F&tbnid=glYRurn_6a_CvM&vet=12ahUKEwj0h5Ccv8v1AhWOA80KHTsnAakQMygAegUIARCYAQ..i&docid=WIGZ9DS3TbC5cM&w=600&h=600&q=paul%20jacobs%20pink%20dogs&ved=2ahUKEwj0h5Ccv8v1AhWOA80KHTsnAakQMygAegUIARCYAQ",
+      "date_released": "May 2021",
+      "description": "The cartoonist and drummer for the post-punk quintet Pottery explores gently lysergic visions on his psych-pop solo albums.",
+      "next_concert": "March 2022, Albuquerque"
+      
+    },
+    {
+      "id": "3",
+      "title": "WANDERKID",
+      "artist": "JW Francis",
+      "artist_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.wonderlandmagazine.com%2Fuploads%2F2020%2F09%2F46071730_1933530856735762_370074766138146816_n.jpg&imgrefurl=https%3A%2F%2Fwww.wonderlandmagazine.com%2F2020%2F09%2F24%2Fnew-noise-jw-francis%2F&tbnid=iYPZM-p1uWYCoM&vet=12ahUKEwix_rj-v8v1AhXPXs0KHdR3B1IQMygDegUIARCvAQ..i&docid=FlwEp8yGDZLS7M&w=2000&h=2500&q=jw%20francis&ved=2ahUKEwix_rj-v8v1AhXPXs0KHdR3B1IQMygDegUIARCvAQ",
+      "record_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.roughtrade.com%2Fproduct%2Fimages%2Ffiles%2F000%2F218%2F662%2Foriginal%2F20000000099801_%25281%2529.jpg%3F1621947721&imgrefurl=https%3A%2F%2Fwww.roughtrade.com%2Fgb%2Fjw-francis%2Fwanderkid&tbnid=N0O-ZB2rX7rKNM&vet=12ahUKEwiHtZSPwMv1AhW7B50JHUhlDFUQMygCegUIARCgAQ..i&docid=7T-kZ2vnAHEjzM&w=2000&h=2000&q=jw%20francis%20wanderkid&ved=2ahUKEwiHtZSPwMv1AhW7B50JHUhlDFUQMygCegUIARCgAQ",
+      "date_released": "September 2021",
+      "description": "WANDERKID is a standout jangle pop album of 2021, thematic in its tones and structures.",
+      "next_concert": "March 2022, Austin"
+    },
+    {
+      "id": "4",
+      "title": "CINEMA",
+      "artist": "The Marias",
+      "artist_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.sfweekly.com%2Fwp-content%2Fuploads%2F2019%2F07%2F0801themarias.jpg&imgrefurl=https%3A%2F%2Fwww.sfweekly.com%2Fmusic%2Fthe-marias-l-a-love-started-in-a-tiny-cocktail-lounge%2F&tbnid=c8YK2L6cmcZfRM&vet=12ahUKEwjCzMrawMv1AhX6BJ0JHdM7AzcQMygIegUIARDKAQ..i&docid=urLJUpd8zuMrfM&w=800&h=600&q=the%20marias&ved=2ahUKEwjCzMrawMv1AhX6BJ0JHdM7AzcQMygIegUIARDKAQ",
+      "record_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Friffmagazine.com%2Fwp-content%2Fuploads%2F2021%2F06%2FCINEMA-cover_FINAL-e1624150955304.jpeg&imgrefurl=https%3A%2F%2Friffmagazine.com%2Falbum-reviews%2Fthe-marias-cinema%2F&tbnid=BGp6Vr08Pf7__M&vet=12ahUKEwiZjNrkwMv1AhVME80KHSb1C9sQMygAegUIARC_AQ..i&docid=VtTMEsZckGXN_M&w=604&h=604&q=the%20marias%20cinema&ved=2ahUKEwiZjNrkwMv1AhVME80KHSb1C9sQMygAegUIARC_AQ",
+      "date_released": "June 2021",
+      "description": "Cinema is a gorgeous album that, as described by lead singer María Zardoya, offers listeners a break away from real life for a while to create some kind of dream world in their heads.",
+      "next_concert": "February 2022, Austin"
+    },
+    {
+      "id": "5",
+      "title": "Private Space",
+      "artist": "Durand Jones And The Indicatons",
+      "artist_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fd733dcd64df6dfdb1c20a2992f2f6c54e6498379%2F0_64_3000_1800%2Fmaster%2F3000.jpg%3Fwidth%3D1200%26height%3D900%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26s%3D9761e1099f4031859615a7c84dfcb1a2&imgrefurl=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2021%2Fjul%2F30%2Fdurand-jones-the-indications-private-space-review&tbnid=HNeXvyhci1IpZM&vet=12ahUKEwiHu8Djwcv1AhUhds0KHUr2A08QMygBegUIARC_AQ..i&docid=P0iL7Y5Z-j_BwM&w=1200&h=900&q=durand%20jones%20and%20the%20indications&ved=2ahUKEwiHu8Djwcv1AhUhds0KHUr2A08QMygBegUIARC_AQ",
+      "record_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa0307167131_10.jpg&imgrefurl=https%3A%2F%2Fdurandjonesandtheindications.bandcamp.com%2Falbum%2Fprivate-space&tbnid=nhsRStwmiD3aSM&vet=12ahUKEwiE_9vvwcv1AhVOHs0KHdqTCKIQMygAegUIARDPAQ..i&docid=gkmqSsdoWL221M&w=1200&h=1200&q=durand%20jones%20and%20the%20indications&hl=en&ved=2ahUKEwiE_9vvwcv1AhVOHs0KHdqTCKIQMygAegUIARDPAQ",
+      "date_released": "July 2021",
+      "description": "Developed after being apart for much of the year, Durand Jones and the Indications' Private Space, the group's third album, is creatively explosive and delights in upending expectations",
+      "next_concert": "February 2022, Ontario"
+    },
+    {
+      "id": "6",
+      "title": "Valentine",
+      "artist": "Snail Mail",
+      "artist_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F11%2F05%2Fsnail-mail-tina-tyrell-6ef10891f274ab1c6ec42726828efdab2e4597e9.jpg&imgrefurl=https%3A%2F%2Fwww.npr.org%2F2021%2F11%2F06%2F1052453263%2Fsnail-mail-talks-emphasizing-the-opposite-for-new-album-valentine&tbnid=q_iaB9681-w5rM&vet=12ahUKEwj2i93Nwsv1AhWaXs0KHadMCCoQMygCegUIARC-AQ..i&docid=Hxeia9a5P4xVSM&w=3170&h=2377&q=snail%20mail&ved=2ahUKEwj2i93Nwsv1AhWaXs0KHadMCCoQMygCegUIARC-AQ",
+      "record_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5ab7bf5e9f8770d12928b1d2%2F1631546175414-P3K0LX9LS1ZZRUZV4P9R%2FSnailMail_Valentine.jpg&imgrefurl=https%3A%2F%2Fwww.snailmail.band%2F&tbnid=VjlRFwv7HN4RCM&vet=12ahUKEwj2i93Nwsv1AhWaXs0KHadMCCoQMygEegUIARDCAQ..i&docid=TfqAoFlMeKDttM&w=960&h=960&q=snail%20mail&ved=2ahUKEwj2i93Nwsv1AhWaXs0KHadMCCoQMygEegUIARDCAQ",
+      "date_released": "November 2021",
+      "description": "Lindsey Jordan’s exquisite second album documents love in all stages, but mostly in disrepair. She takes on a larger and poppier sound while keeping her songwriting dazzlingly sharp and passionate.",
+      "next_concert": "March 2022, Oslo"
+    },
+    {
+      "id": "7",
+      "title": "Glow On",
+      "artist": "Turnstile",
+      "artist_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.rollingstone.com%2Fwp-content%2Fuploads%2F2021%2F11%2FTURNSTILE-GLOW-ON-Pub-2021-Jimmy-Fontaine-LO.jpg%3Fresize%3D1800%2C1200%26w%3D1800&imgrefurl=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-news%2Fturnstile-north-american-tour-2022-1257975%2F&tbnid=gYPhgCO3qVPr5M&vet=12ahUKEwiFvu2Ow8v1AhWoB50JHcFEDjUQMygDegUIARDAAQ..i&docid=W6ALPlOgKKgqlM&w=1800&h=1200&q=turnstile%20band&ved=2ahUKEwiFvu2Ow8v1AhWoB50JHcFEDjUQMygDegUIARDAAQ",
+      "record_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fb%2Fb5%2FGlow_On_%2528Turnstile%2529.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGlow_On&tbnid=Oz6nPa4ybKVflM&vet=12ahUKEwi80JHaw8v1AhUQX80KHcmlCssQMygCegUIARDAAQ..i&docid=kJRz3UQgkrg00M&w=300&h=300&q=glow%20on&ved=2ahUKEwi80JHaw8v1AhUQX80KHcmlCssQMygCegUIARDAAQ",
+      "date_released": "August 2021",
+      "description": "The Baltimore band’s spectacular fourth record is all groove, riffs, and passion. It is not a crossover hardcore album that looks to transcend the genre, but one that tries to elevate it to its highest visibility.",
+      "next_concert": "February 2022, London"
+    },
+    {
+      "id": "8",
+      "title": "Call Me If You Get Lost",
+      "artist": "Tyler, The Creator",
+      "artist_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.vogue.com%2Fphotos%2F5dbf454341f4b800086909e6%2Fmaster%2Fw_1600%252Cc_limit%2FGettyImages-1185181176.jpg&imgrefurl=https%3A%2F%2Fwww.vogue.com%2Fvogueworld%2Farticle%2Ftyler-the-creator-lacma-art-and-film-gala-gucci&tbnid=3GU6Aq1cRN4O5M&vet=12ahUKEwin0uyVxMv1AhVPXs0KHQaKDT0QMygJegUIARDGAQ..i&docid=qtI1R_oHF_BzYM&w=1600&h=2345&q=tyler%20the%20creator&ved=2ahUKEwin0uyVxMv1AhVPXs0KHQaKDT0QMygJegUIARDGAQ",
+      "record_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.pitchfork.com%2Fphotos%2F60cb72ddadc2201193add729%2F2%3A1%2Fw_1000%2FTyler-the-Creator.jpg&imgrefurl=https%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2Ftyler-the-creator-call-me-if-you-get-lost%2F&tbnid=07sb5rvwvhvMtM&vet=12ahUKEwipuvqixMv1AhXDGM0KHUvWBl0QMygBegUIARC9AQ..i&docid=KxYlHHXUhJn-RM&w=1000&h=500&q=call%20me%20if%20you%20get%20lost&ved=2ahUKEwipuvqixMv1AhXDGM0KHUvWBl0QMygBegUIARC9AQ",
+      "date_released": "June 2021",
+      "description": "With DJ Drama in tow, Tyler thrives in the realm of the rap mixtape, which allows him great freedom to explore every facet of his talent as a producer, writer, and vocalist.",
+      "next_concert": "June 2022, Amsterdam"
+    }
+]
