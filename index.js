@@ -34,9 +34,19 @@ function createImageTags(recordObj){
     displayVideo.src = recordObj.video
     // console.log(recordObj.video)
 
+    const displayRecordName = document.querySelector(".name")
+    displayRecordName.textContent = recordObj.title
+
+    const displayArtistName = document.querySelector(".artistName")
+    displayArtistName.textContent = recordObj.artist
+
+
+
 
     
   })
-
-  // append each img tag to the dom inside of records-list  recordCollection.append(recordImg)
+  recordCollection.append(recordImg)
+  // append each img tag to the dom inside of records-list  
+ 
 }
+
