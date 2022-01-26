@@ -1,6 +1,10 @@
 //// get all images // fetch 
 getAllRecords()
 const recordCollection = document.querySelector("#recordList")
+const recordForm = document.querySelector("#new-record")
+
+recordForm.addEventListener("submit", addFormToList)
+
 
 function getAllRecords(){
     fetch("http://localhost:3000/records")
@@ -50,3 +54,13 @@ function createImageTags(recordObj){
  
 }
 
+
+function addFormToList(e) {
+  e.preventDefault()
+  const recordImg = document.createElement("img")
+  recordImg.src = e.target.recordimg.value
+  recordCollection.append(recordImg)
+  // console.log(e)
+
+
+}
