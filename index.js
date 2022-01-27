@@ -38,11 +38,13 @@ function createImageTags(recordObj){
     displayVideo.src = recordObj.video
     // console.log(recordObj.video)
 
-    const displayRecordName = document.querySelector(".name")
-    displayRecordName.textContent = recordObj.title
+    const displayRecordName = document.querySelector("#recordName")
+    displayRecordName.textContent = "Album Title:" + recordObj.title
 
     const displayArtistName = document.querySelector(".artistName")
     displayArtistName.textContent = recordObj.artist
+
+    
 
 
 
@@ -59,6 +61,10 @@ function addFormToList(e) {
   e.preventDefault()
   const recordImg = document.createElement("img")
   recordImg.src = e.target.recordimg.value
+  
+  
+  
+  
   recordCollection.append(recordImg)
   // console.log(e)
 
