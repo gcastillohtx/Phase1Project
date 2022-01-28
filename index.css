@@ -10,15 +10,15 @@
     padding: 3rem;
     width: 100%;
     color: white;
-    background-color: #f93800;
-    font-size: 20px;
+    background-color:#0f4c5c ;
+    font-size: 30px;
     
   }
   
   body {
     padding: 1rem;
     text-align: center;
-    background-color: #080075;
+    background-color: #FEFAEC;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -32,13 +32,14 @@
     overflow-x: auto;
     margin: 1rem 0;
     max-width: calc(100vw - 2rem);
+    
   }
   
   .div2 { grid-area: 4 / 4 / 9 / 10; 
   
   }
   
-  .div3 { grid-area: 4 / 1 / 9 / 3; 
+  .div3 { grid-area: 3 / 1 / 9 / 3; 
     margin: 1rem 0;
     width: 300px;
     display: flex;
@@ -58,34 +59,47 @@
     width: 100%;
   }
 
+  
+
   form h4 {
     width: 100%;
     padding: 0.25rem;
     margin: 0.5rem 0;
     color: white;
-    background-color: #f93800;
+    background-color: #0f4c5c;
   }
 
 
   
   .div4 { grid-area: 4 / 11 / 9 / 13; 
+    color: #0f4c5c;
+    font-size: 30px;
   
   }
   
-  .div5 { grid-area: 10 / 1 / 13 / 4; 
-  background-color: #f93800;
+  .div5 { grid-area: 8 / 1 / 11 / 4; 
+  background-color: #e36414;
+  font-size: 70px;
+  text-align: center;
   }
   
-  .div6 { grid-area: 10 / 4 / 13 / 7; 
-  background-color: #ffb500;
+  .div6 { grid-area: 8 / 4 / 11 / 7; 
+  background-color: #0f4c5c;
+  font-size: 70px;
+  text-align: center;
+  
   }
   
-  .div7 { grid-area: 10 / 7 / 13 / 10; 
-  background-color: #f93800;
+  .div7 { grid-area: 8 / 7 / 11/ 10; 
+  background-color: #e36414;
+  font-size: 40px;
+  text-align: center;
   }
   
-  .div8 { grid-area: 10 / 10 / 13 / 13; 
-  background-color: #ffb500;
+  .div8 { grid-area: 8 / 10 / 11 / 13; 
+  background-color: #0f4c5c;
+  font-size:70px;
+  text-align: center;
   }
 
 

@@ -39,10 +39,19 @@ function createImageTags(recordObj){
     // console.log(recordObj.video)
 
     const displayRecordName = document.querySelector("#recordName")
-    displayRecordName.textContent = "Album Title:" + recordObj.title
+    displayRecordName.textContent = recordObj.title
 
     const displayArtistName = document.querySelector(".artistName")
     displayArtistName.textContent = recordObj.artist
+
+    const dateReleased = document.querySelector("#date-released")
+    dateReleased.textContent = "Date Released:  " + recordObj.date_released
+
+    const recDescription = document.querySelector("#description")
+    recDescription.textContent = recordObj.description
+
+    const nextConcert = document.querySelector("#nextconcert")
+    nextConcert.textContent = "Next Show:  " + recordObj.next_concert 
 
     
 
